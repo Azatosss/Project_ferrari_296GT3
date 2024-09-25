@@ -1,0 +1,23 @@
+{
+  "name": "project_ferrari_296gt3",
+  "version": "1.0.0",
+  "description": "Ferrari 296GT3 edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A.Shaqirov",
+  "license": "ISC",
+  "devDependencies": {
+    "audit": "^0.0.6",
+    "browser-sync": "^2.26.2",
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^3.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "no": "^0.0.1",
+    "sass": "^1.79.2"
+  }
+}
